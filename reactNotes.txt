@@ -1,0 +1,16 @@
+React DOM - Browser
+React Native - Mobile
+React 3D
+
+Hunger and Curiosity is the only difference between Normal and Good Developer.
+
+Chnapter 2
+
+Bundler: Webpack, Parcel, Vite
+
+Job of bundler( Webpack, Parcel, Vit): 
+
+Parcel is a package or module of js and for that we need to use package manager like npm, yarn.
+
+WHat is NPM ? 
+Its does not stand node package manager.
