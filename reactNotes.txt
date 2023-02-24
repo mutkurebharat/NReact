@@ -4,7 +4,7 @@ React 3D
 
 Hunger and Curiosity is the only difference between Normal and Good Developer.
 
-Chnapter 2
+----------------- Chnapter 2 ----------------------
 
 Bundler: Webpack, Parcel, Vite
 
@@ -14,3 +14,26 @@ Parcel is a package or module of js and for that we need to use package manager 
 
 WHat is NPM ? 
 Its does not stand node package manager.
+
+que caret and tilde in package.json
+* to know what exact version we will use on producton, we use package-lock.json
+* browserlist.dev
+
+que npm init -y 
+
+
+---------------- Chnapter 3 -----------------------------
+
+npx = npm run
+
+> babel plugin transform remove console
+> react reconcillation key - Diffing Algorithm
+> xss attack, sanitization
+
+--------------------- Chnapter 4 ------------------------
+
+config driven UI
+System Design Interview for Frontend Developer
+que Reconcillation
+que Virtual DOM.
+que What is React Fiber ? - New reconcillation engine in react 16.
